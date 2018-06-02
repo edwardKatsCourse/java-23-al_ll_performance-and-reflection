@@ -1,0 +1,2 @@
+ArrayList visualization - https://www.youtube.com/watch?v=tuujlJ19IK4
+ArrayList vs LinkedList performance - https://habr.com/post/233797/
